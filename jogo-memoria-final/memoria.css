@@ -1,0 +1,10 @@
+.casa{
+	width: 170px;
+	height: 170px;
+	border: solid 1px;
+	float: left;
+}
+
+#jogo{
+	width: 1176px;
+}
